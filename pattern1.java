@@ -1,7 +1,10 @@
+
 // ****
 // ****
 // ****
 // ****
+// ****
+import java.util.Scanner;
 class pattern1{
     void solve(int n){
         for(int i=1;i<=n;i++){
@@ -12,8 +15,10 @@ class pattern1{
         }
     }
     public static void main(String[] args){
-        int n=4;
+        Scanner sc=new Scanner(System.in);
+        int n=sc.nextInt();
         pattern1 obj = new pattern1();
         obj.solve(n);
+        sc.close();
     }
 }
