@@ -8,13 +8,13 @@ import java.util.Scanner;
 public class pattern8 {
     public void solve(int n){
         for(int i=0; i<n ;i++){
-            for(int j=0; j<i; j++){
+            for(int j=0; j<i; j++){//space
                 System.out.print("-");
             }
-            for(int j=0; j< 2*(n-i)-1; j++){
+            for(int j=0; j< 2*n-(2*i+1); j++){//star
                 System.out.print("*");
             }
-            for(int j=0; j<i; j++){
+            for(int j=0; j<i; j++){//space
                 System.out.print("-");
             }
             System.out.println();
