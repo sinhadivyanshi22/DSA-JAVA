@@ -1,9 +1,9 @@
+// ****
+// ****
+// ****
+// ****
+// ****
 
-// ****
-// ****
-// ****
-// ****
-// ****
 import java.util.Scanner;
 class pattern1{
     void solve(int n){

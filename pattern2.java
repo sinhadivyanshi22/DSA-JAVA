@@ -2,6 +2,7 @@
 // **
 // ***
 // ****
+
 import java.util.Scanner;
 public class pattern2 {
     void solution(int n){
