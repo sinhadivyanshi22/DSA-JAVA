@@ -7,7 +7,6 @@
 // ***
 // **
 // *
-
 import java.util.Scanner;
 public class pattern102 {
     public void solve(int n){
