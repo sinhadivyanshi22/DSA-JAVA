@@ -1,3 +1,8 @@
+// 1
+// 01
+// 101
+// 0101
+// 10101
 import java.util.Scanner;
 public class pattern11{
     public void solve(int n){
