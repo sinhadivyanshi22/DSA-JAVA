@@ -1,3 +1,7 @@
+// 1      1
+// 12    21
+// 123  321
+// 12344321
 import java.util.Scanner;
 public class pattern12 {
     public void solve(int n){
