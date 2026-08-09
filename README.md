@@ -17,7 +17,7 @@ This repository contains my Java solutions while following **Striver's A2Z DSA S
 # 📂 Learning Roadmap
 
 ## Step 1: Learn the Basics
-- Things to Know in Java
+- Building up Logic
 - Basic Math
 - Basic Recursion
 - Basic Hashing
