@@ -15,26 +15,88 @@ This repository contains my Java solutions while following **Striver's A2Z DSA S
 
 ---
 
-# 📌 Progress Tracker
+# 📂 Learning Roadmap
 
-- [x] Step 1: Learn the Basics
-- [x] Step 2: Learn Important Sorting Techniques
-- [ ] Step 3: Arrays
-- [ ] Step 4: Binary Search
-- [ ] Step 5: Strings
-- [ ] Step 6: Linked List
-- [ ] Step 7: Recursion & Backtracking
-- [ ] Step 8: Bit Manipulation
-- [ ] Step 9: Stack & Queue
-- [ ] Step 10: Sliding Window & Two Pointers
-- [ ] Step 11: Heaps
-- [ ] Step 12: Greedy Algorithms
-- [ ] Step 13: Binary Trees
-- [ ] Step 14: Binary Search Trees
-- [ ] Step 15: Graphs
-- [ ] Step 16: Dynamic Programming
-- [ ] Step 17: Tries
-- [ ] Step 18: Strings (Advanced)
+## Step 1: Learn the Basics
+- Things to Know in Java
+- Basic Math
+- Basic Recursion
+- Basic Hashing
+
+## Step 2: Learn Important Sorting Techniques
+- Selection Sort
+- Bubble Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+
+## Step 3: Solve Problems on Arrays
+- Easy
+- Medium
+- Hard
+
+## Step 4: Binary Search
+- Binary Search on 1D Arrays
+- Binary Search on Answers
+- Binary Search on 2D Arrays
+
+## Step 5: Strings
+- Basic String Problems
+- Medium String Problems
+- Pattern Matching
+
+## Step 6: Linked List
+- Singly Linked List
+- Doubly Linked List
+- Medium & Hard Problems
+
+## Step 7: Recursion & Backtracking
+- Recursion
+- Subsequence Problems
+- Backtracking
+
+## Step 8: Bit Manipulation
+- Bitwise Operators
+- Bit Tricks
+- Bitmasking
+
+## Step 9: Stack & Queue
+- Stack
+- Queue
+- Monotonic Stack
+- Monotonic Queue
+
+## Step 10: Sliding Window & Two Pointers
+
+## Step 11: Heaps
+
+## Step 12: Greedy Algorithms
+
+## Step 13: Binary Trees
+
+## Step 14: Binary Search Trees
+
+## Step 15: Graphs
+- BFS
+- DFS
+- Shortest Path
+- MST
+- Disjoint Set Union
+
+## Step 16: Dynamic Programming
+- 1D DP
+- 2D DP
+- Subsequences
+- Strings
+- Stocks
+- LIS
+- MCM
+- Partition DP
+
+## Step 17: Tries
+
+## Step 18: Strings (Advanced)
+
 ---
 
 ## 🛠 Tech Stack
