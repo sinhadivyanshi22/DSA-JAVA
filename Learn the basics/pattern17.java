@@ -3,7 +3,6 @@
 // --ABCBA--
 // -ABCDCBA-
 // ABCDEDCBA
-
 import java.util.Scanner;
 public class pattern17 {
 
