@@ -8,7 +8,6 @@
 // --*****--
 // ---***---
 // ----*----
-
 import java.util.Scanner;
 public class pattern9 {
     public void solve(int n){
