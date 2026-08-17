@@ -3,7 +3,6 @@
 // 123
 // 12
 // 1
-
 import java.util.Scanner;
 public class pattern6 {
     public void solve(int n){
