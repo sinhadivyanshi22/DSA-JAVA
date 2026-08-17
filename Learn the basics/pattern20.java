@@ -1,3 +1,8 @@
+// *    *
+// **  **
+// ******
+// **  **
+// *    *
 import java.util.Scanner;
 public class pattern20{
     public void solve(int n){
