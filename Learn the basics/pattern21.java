@@ -21,5 +21,4 @@ public class pattern21{
         obj.solve(n);
         sc.close();
     }
-    
 }
