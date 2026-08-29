@@ -43,5 +43,6 @@ public class pattern20{
         int n=sc.nextInt();
         pattern20 obj=new pattern20();
         obj.solve(n);
+        sc.close();
     }
 }
