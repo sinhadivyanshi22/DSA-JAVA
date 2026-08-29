@@ -1,8 +1,9 @@
+444444444
 
 import java.util.Scanner;
 public class pattern22{
     public void solve(int n){
-        
+
     }
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
