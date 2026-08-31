@@ -1,6 +1,6 @@
 # 🚀 DSA in Java | Striver's A2Z DSA Sheet
 
-Welcome to my **Data Structures and Algorithms** repository! 👋
+Welcome to my **Data Structures and Algorithms** repository! 
 
 This repository contains my Java solutions while following **Striver's A2Z DSA Sheet**. My goal is to strengthen problem-solving skills, master core DSA concepts, and prepare for Software Development interviews.
 
