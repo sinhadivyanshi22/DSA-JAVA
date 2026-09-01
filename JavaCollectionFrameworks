@@ -1,0 +1,39 @@
+**JAVA COLLECTION FRAMEWORKS**
+
+Arrays are static, so if we want to change size or modify them during runtime, you get stuck. Hence, it becomes error-prone. Arrays also don't proovide built-in methods for common operations like searching, sorting or removing elements.
+This is exactly why Java Collection Frameworks exists. The JCF is part of the java.util package and provides a set of ready-to-use classes and interfaces for common operations.
+Collections are dynamic — meaning they can grow or shrink in size and they come with built-in methods for common operations. They also follow a consistent design, which means once you learn how to use one collection, you can quickly adapt to others.
+
+**The concept of Frameworks**
+
+The Java Collections Framework is an organized hierarchy. At the top sits the Iterable interface, which allows objects to be looped through using the enhanced for-each loop. Then comes the Collection interface, which represents a group of elements and defines basic operations like adding, removing, checking size, and clearing elements.
+
+From Collection, the hierarchy splits into three main branches:
+
+List : ordered collections that can have duplicate elements.
+Set : unordered collections that do not allow duplicates.
+Queue : collections designed to hold elements before processing.
+
+Lists
+
+A List in Java is an ordered collection where you can store duplicate elements and access them by index. It’s perfect when the order of insertion matters or when you need to retrieve elements by position. Common implementations include:
+
+ArrayList : internally backed by a dynamic array, offering fast random access but slower insertions and deletions in the middle.
+LinkedList : based on a doubly linked list, making insertions and deletions faster but random access slower.
+Vector : similar to ArrayList but synchronized, meaning it’s thread safe (however, it’s considered outdated for most use cases).
+
+Sets
+
+A Set represents a collection that cannot contain duplicate elements. This makes it ideal for storing unique items like usernames, IDs, or distinct values. The most common implementations are:
+
+HashSet uses hashing for storage; elements are unordered and operations are very
+LinkedHashSet : similar to HashSet but maintains the order in which elements are inserted.
+TreeSet : stores elements in a sorted (ascending) order using a balanced binary search tree, but with slower insertion and lookup times compared to hash-based sets.
+
+Maps
+
+Unlike Collection types, a Map stores data as key-value pairs. Each key maps to exactly one value, and keys must be unique. This is useful when you need quick lookups based on a unique identifier. Common implementations include:
+
+HashMap : fast lookups with no guaranteed order of keys.
+LinkedHashMap : maintains insertion order of keys.
+TreeMap : keeps keys sorted in ascending order.
