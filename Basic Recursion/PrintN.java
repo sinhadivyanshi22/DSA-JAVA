@@ -1,17 +1,16 @@
-import java.util.Scanner;
+import java.util.*;
 class PrintN{
-    public void print(int n){
-        if(n==0){
+    int cnt=0;
+    public void print(){
+        if(cnt==10){
             return;
         }
-        System.out.println(n);
-        print(n-1);
+        System.out.println(cnt);
+        cnt++;
+        print();
     }
     public static void main(String args[]){
-        Scanner sc=new Scanner(System.in);
-        int n=sc.nextInt();
         PrintN obj=new PrintN();
-        obj.print(n);
-        sc.close();
+        obj.print();
     }
 }
