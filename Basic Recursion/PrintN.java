@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 class PrintN{
     int cnt=0;
     public void print(){
@@ -10,7 +10,9 @@ class PrintN{
         print();
     }
     public static void main(String args[]){
+        Scanner sc=new Scanner(System.in);
         PrintN obj=new PrintN();
         obj.print();
+        sc.close();
     }
 }
