@@ -4,8 +4,7 @@ public class PrintNameNtimes{
         if(i>n) return;
         else{
             System.out.println(i+" "+name);
-            i++;
-            printName(name,i,n);
+            printName(name,i+1,n);
         }
     }
     public static void main(String args[]){
